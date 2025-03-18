@@ -10,8 +10,6 @@ Listar Nomes: Veja todos os participantes em uma lista organizada.
 
 Sortear Amigo: Quando terminar de adicionar pelo menos três nomes, clique no botão "Sortear amigo". O nome sorteado será mostrado na tela.
 
-Obs.: Neste repositório temos uma pasta Imagens com as capturas de tela do programa.
-
 # Desafios Encontrados
 Como em todo aprendizado, houve alguns percalços ao desenvolver este programa, mas eles renderam ótimos ensinamentos:
 
