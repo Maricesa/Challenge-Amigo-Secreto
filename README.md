@@ -3,14 +3,16 @@ Projeto proposto como desafio para seleção no programa Alura/ONE Oracle para E
 
 O "Amigo Secreto" é uma aplicação simples que te ajuda a organizar aquele sorteio clássico entre amigos de forma prática e divertida. Criado com HTML, CSS e JavaScript, esse projeto é perfeito para quem está começando no desenvolvimento web. Ele ensina conceitos fundamentais enquanto proporciona um resultado útil e interativo. 😄
 
-Como Funciona
+# Como Funciona
 Adicionar Amigos: Digite o nome de cada amigo no campo indicado e clique em "Adicionar". Os nomes aparecem em uma lista logo abaixo.
 
 Listar Nomes: Veja todos os participantes em uma lista organizada.
 
 Sortear Amigo: Quando terminar de adicionar pelo menos três nomes, clique no botão "Sortear amigo". O nome sorteado será mostrado na tela.
 
-Desafios Encontrados
+Obs.: Neste repositório temos uma pasta Imagens com as capturas de tela do programa.
+
+# Desafios Encontrados
 Como em todo aprendizado, houve alguns percalços ao desenvolver este programa, mas eles renderam ótimos ensinamentos:
 
 Trabalhar com a DOM: Criar elementos dinamicamente, atualizar a lista de amigos e exibi-los adequadamente foram etapas essenciais e desafiadoras.
@@ -23,31 +25,15 @@ Estruturar o Código: Criar funções reutilizáveis como adicionarAmigo, atuali
 
 Apesar dos desafios, o projeto foi concluído com sucesso! 🎉 O "Amigo Secreto" não só funciona como esperado, mas também foi uma excelente oportunidade de aprendizado.
 
-Abaixo um tutorial com telas do projeto:
+Abaixo os passos para utilização do programa de sorteio:
 
+•	Digite um nome e clique no botão “Adicionar”;
 
-•	Tela inicial do programa
+•	A medida que você adicona nomes eles vão aparecendo em forma de lista abaixo do input; 
 
+•	Quando terminar de adicionar os nomes, clique no botão “Sortear amigo”. Obs.: Digite ao menos 03 (três) nomes para sorteio;
 
-
-
-
-•	Digite um nome e clique no botão “Adicionar”
-
- 
-
-
-
-
-
-
-
-
-•	A medida que você adicona nomes eles vão aparecendo em forma de lista abaixo do input
- 
-
-•	Quando terminar de adicionar os nomes, clique no botão “Sortear amigo”. Obs.: Digite ao menos 03 (três) nomes para sorteio.
-
+•	O nome sorteado irá aparecer em destaque abaixo do input.
  
 
 
